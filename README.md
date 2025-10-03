@@ -1,4 +1,4 @@
-# Dicee Flutter
+# Dice Flutter
 
 A simple Flutter app that simulates rolling dice.
 
