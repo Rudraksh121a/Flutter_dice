@@ -1,16 +1,30 @@
-# diceeflutter
+# Dicee Flutter
 
-A new Flutter project.
+A simple Flutter app that simulates rolling dice.
 
+## Features
+
+- Tap to roll two dice
+- Random dice face generation
+- Clean and minimal UI
+
+
+
+## Requirements
+
+- Flutter SDK (latest stable)
+- Compatible device or emulator
+- Internet connection for package downloads
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. Clone this repository.
+2. Run `flutter pub get` to install dependencies.
+3. Use `flutter run` to launch the app on your device or emulator.
 
-A few resources to get you started if this is your first Flutter project:
+<!-- ## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+_Add screenshots here if available._ -->
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<!-- ## License
+
+This project is licensed under the MIT License. -->
